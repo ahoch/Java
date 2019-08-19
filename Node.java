@@ -1,3 +1,5 @@
+/* A very generic Node for a singly linked list implementation. */
+
 import java.util.*;
 
 public class Node<T extends Comparable<T>> implements Comparable<Node<T>> {
